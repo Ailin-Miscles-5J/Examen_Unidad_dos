@@ -1,9 +1,9 @@
 # Examen
-15*2=30
-30*2=60
-45*2=90
-60*2=120
-75*2=150
+15x2=30
+30x2=60
+45x2=90
+60x2=120
+75x2=150
 
 ![image](https://github.com/user-attachments/assets/6c917032-243b-4f85-9ba0-3cdb72c349fa)
 ![image](https://github.com/user-attachments/assets/784cdb71-5436-4562-8860-a94366302989)
