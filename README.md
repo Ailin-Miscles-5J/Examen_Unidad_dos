@@ -1,19 +1,13 @@
 # Examen
+15*2=30
+30*2=60
+45*2=90
+60*2=120
+75*2=150
 
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![image](https://github.com/user-attachments/assets/6c917032-243b-4f85-9ba0-3cdb72c349fa)
+![image](https://github.com/user-attachments/assets/784cdb71-5436-4562-8860-a94366302989)
+![image](https://github.com/user-attachments/assets/f1d76d79-2e91-4cb2-8e88-00a5a66730be)
+![image](https://github.com/user-attachments/assets/08fc384b-2db6-4f00-9548-ff758e73a07b)
+![image](https://github.com/user-attachments/assets/89c10494-5db7-4e79-bce3-adfd004dd987)
+![image](https://github.com/user-attachments/assets/12900518-e1b0-4976-8dba-01497e592170)
